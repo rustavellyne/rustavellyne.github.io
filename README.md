@@ -1,2 +1,0 @@
-# -rustavellyne.github.io
-resume
